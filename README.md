@@ -1,7 +1,7 @@
-## Olá, me chamo Pedro Fernandes ! 
-### Bem vindo ao meu perfil GitHub 👋
+## Olá, eu me chamo Pedro Fernandes ! 
+### Bem vindo ao meu perfil do GitHub 👋
 
-- 🔭 Atualmente estou <strong>aberto</strong> para oportunidade de <strong>estágio</strong> ...
+- 🔭 Atualmente estou <strong>aberto</strong> para oportunidades de <strong>estágio</strong> ...
 - 🌱 Atualmente estou aprendendo <strong>NodeJS</strong> e <strong>ReactJS</strong> ...
 - 📫 Como entrar em contato comigo:<br>
       📧 contato.phfernandes@gmail.com<br>
@@ -17,6 +17,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phfernandes14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contatatos
+### Contatos
 <a href = "mailto:contato.phfernandes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/phfernandes14" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
